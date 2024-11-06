@@ -5,14 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostdir&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-ep" /> </p>
 
 
+- 🔭 I’m currently working on ****Real-time Data Pipelines | Machine Learning | ETL Projects****
 
-- 🔭 I’m currently working on ****DATA projects****
+- 👯 I’m looking to collaborate on ****Data Engineering | Machine Learning | NLP | LLM | Predictive Modeling****
 
-- 👯 I’m looking to collaborate on ****DATA ENGINEERING | ML | LLM****
+- 🤝 I’m looking for help with ****Open-source Data Engineering, Machine Learning, and AI Contributions****
 
-- 🤝 I’m looking for help with ****Open-source contributions****
+- 💬 Ask me about ****Python, PyTorch, PostgreSQL, Streamlit, Apache Kafka, Airflow, Docker, ETL pipelines, Machine Learning, and Deep Learning****
 
-- 💬 Ask me about ****Python, Django, PostgreSQL, Django REST, JavaScript, React****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
