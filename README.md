@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ****DATA projects****
 
-- 👯 I’m looking to collaborate on ****DATA ENGINEERING | ML | LLM ****
+- 👯 I’m looking to collaborate on ****DATA ENGINEERING | ML | LLM****
 
 - 🤝 I’m looking for help with ****Open-source contributions****
 
