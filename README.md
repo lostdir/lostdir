@@ -1,14 +1,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Swetha</h1>
+<h1 align="center">Hi 👋, I'm HARSHAL</h1>
 <h3 align="center">Welcome to my Github profile !</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2017/09/tumblr_static_computer_game_anime.gif?fit=640%2C360&ssl=1">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha-ep&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-ep" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostdir&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-ep" /> </p>
 
 
 
-- 🔭 I’m currently working on ****Django projects****
+- 🔭 I’m currently working on ****DATA projects****
 
-- 👯 I’m looking to collaborate on ****Full Stack Web Development****
+- 👯 I’m looking to collaborate on ****DATA ENGINEERING | ML | LLM ****
 
 - 🤝 I’m looking for help with ****Open-source contributions****
 
