@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm HARSHAL</h1>
 <h3 align="center">Welcome to my Github profile !</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/23d58b52-117d-11ee-a60c-0f537c155a06/6oj5kWVF2A.lottie>
+<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/23d58b52-117d-11ee-a60c-0f537c155a06/6oj5kWVF2A.lottie">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostdir&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-ep" /> </p>
 
 
