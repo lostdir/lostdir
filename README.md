@@ -1,27 +1,28 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)  
 <h1 align="center">Hi 👋, I'm HARSHAL</h1>
-<h3 align="center">Welcome to my Github profile !</h3>
-<!---
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2017/09/tumblr_static_computer_game_anime.gif?fit=640%2C360&ssl=1">
--->
+<h3 align="center">Data Engineer | Machine Learning Explorer | Real-time Data Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostdir&label=Profile%20views&color=0e75b6&style=flat" alt="lostdir" /> </p>
 
+- 🔭 I’m currently working on **Real-time Data Pipelines | Machine Learning | LLM | ETL Projects**
 
-- 🔭 I’m currently working on ****Real-time Data Pipelines | Machine Learning | LLM |ETL Projects****
+- 👯 I’m looking to collaborate on **Data Engineering | Machine Learning | NLP | Predictive Modeling**
 
-- 👯 I’m looking to collaborate on ****Data Engineering | Machine Learning | NLP | LLM | Predictive Modeling****
+- 🤝 I’m looking for help with **Open-source Data Engineering and AI Contributions**
 
-- 🤝 I’m looking for help with ****Open-source Data Engineering, Machine Learning, and AI Contributions****
+- 💬 Ask me about **Python, PyTorch, PostgreSQL, Streamlit, Apache Kafka, Airflow, Docker, ETL pipelines, Data Engineering, and Machine Learning**
 
-- 💬 Ask me about ****Python, PyTorch, PostgreSQL, Streamlit, Apache Kafka, Airflow, Docker, ETL pipelines, Machine Learning, LLM Chat Bots, and Deep Learning****
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swethaep" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swethaepofficial" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swetha-ep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalkh192" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshalkh192" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshalkh192" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,6 +61,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="left">🛠️ Projects:</h3>
 
@@ -78,7 +80,7 @@
 - **[Predictive Modeling for Time Series Data](https://github.com/yourusername/time-series-model)**  
   Created predictive models for time series forecasting using **Machine Learning** techniques, focusing on accuracy and performance optimization with **Python** and **PostgreSQL** for data management.
 
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostdir&show_icons=true&locale=en&layout=compact" alt="lostdir" /></p>
 
