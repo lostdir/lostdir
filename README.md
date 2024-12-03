@@ -99,7 +99,7 @@
   A scalable ETL pipeline for processing large datasets in real-time. Built with **Apache Kafka**, **Airflow**, and **Docker** for automation and orchestration.
 
 - **[Predictive Modeling for Time Series Data](https://github.com/lostdir/btcprediction)**  
-  Created predictive models for time series forecasting using **Machine Learning** techniques, focusing on accuracy and performance optimization with **Python** and **PostgreSQL** for data management.
+  Created predictive models for time series forecasting using **Machine Learning** techniques, focusing on accuracy and performance optimization with **Python** and **ARIMA MODEL** for time series Analysis and Prediction.
 
 
 
