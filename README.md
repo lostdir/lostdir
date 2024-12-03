@@ -86,7 +86,7 @@
 
 <h3 align="left">🛠️ Projects:</h3>
 
-- **[Trending Movies Dashboard](https://github.com/yourusername/trending-movies-dashboard)**  
+- **[Trending Movies Dashboard](https://github.com/lostdir/movie_dashboard_with_airflow_etl)**  
   A real-time dashboard that fetches data from the TMDB API, transforms it using an ETL pipeline, and displays trending movies, genres, and ratings. Built with **Streamlit**, **PostgreSQL**, and **Python**.
 
 - **[Real-time Sign Language Translator](https://github.com/yourusername/sign-language-translator)**  
