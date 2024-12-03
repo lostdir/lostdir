@@ -92,7 +92,7 @@
 - **[Real-time Sign Language Translator](https://github.com/yourusername/sign-language-translator)**  
   A real-time sign language recognition and translation project using **InceptionI3D** for gesture recognition, **NLP** for text generation, and **OpenCV** for video processing. Implemented using **PyTorch**.
 
-- **[LLM Chat Bot](https://github.com/yourusername/llm-chat-bot)**  
+- **[LLM Chat Bot]https://github.com/lostdir/AskTheSite)**  
   Developed an interactive chatbot using large language models (LLM) that can understand and generate human-like responses, integrated with NLP techniques for contextual understanding.
 
 - **[ETL Pipeline for Data Processing](https://github.com/yourusername/etl-pipeline)**  
