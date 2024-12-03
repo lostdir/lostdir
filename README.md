@@ -98,7 +98,7 @@
 - **[ETL Pipeline for Data Processing](https://github.com/yourusername/etl-pipeline)**  
   A scalable ETL pipeline for processing large datasets in real-time. Built with **Apache Kafka**, **Airflow**, and **Docker** for automation and orchestration.
 
-- **[Predictive Modeling for Time Series Data](https://github.com/yourusername/time-series-model)**  
+- **[Predictive Modeling for Time Series Data](https://github.com/lostdir/btcprediction)**  
   Created predictive models for time series forecasting using **Machine Learning** techniques, focusing on accuracy and performance optimization with **Python** and **PostgreSQL** for data management.
 
 
