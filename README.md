@@ -20,9 +20,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swethaep" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshalkh192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swethaepofficial" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harsh4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatshalkh192" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harsh4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hatshalkh192" height="30" width="40" /></a></p>
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/harshalkh192)
-</p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
